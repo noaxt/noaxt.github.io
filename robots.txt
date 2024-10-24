@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noaxt.github.io/GkI/sitemap.GkI
